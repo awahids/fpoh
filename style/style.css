@@ -1,0 +1,85 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navbar {
+    font-size: larger;
+    height: 100px;
+    background-color: #8d76ce;
+}
+
+li {
+    padding-left: 70px;
+}
+
+.contents {
+    padding: 200px 60px 200px 60px;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 48px;
+    color: #7694ce;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 36px;
+    padding-top: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+
+.btn-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.btn {
+    font-size: 30px;
+    color: white;
+    background-color: #8d76ce;
+    width: 250px;
+    font-weight: bold;
+    border-radius: 15px;
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+    width: 350px;
+}
+
+.lg-st {
+    border-radius: 0 !important;
+}
+
+.hd-form {
+    color: black !important;
+    padding-top: 150px !important;
+    padding-bottom: 30px;
+}
+
+.form-group {
+    width: 500px;
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 30px;
+}
